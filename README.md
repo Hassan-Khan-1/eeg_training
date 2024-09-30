@@ -13,7 +13,7 @@ This repository contains the code for an EEG signal classification project using
 - [Deployment](#deployment)
 
 ## Project Overview
-This project aims to build a machine learning model that analyses EEG signals stored in **EDF (European Data Format)** files and classifies whether a patient is in a normal or abnormal state. The key steps include data pre-processing, feature extraction, model training using XGBoost, and deploying the model via **Streamlit**.
+This project built a machine learning model that analyses EEG signals stored in **EDF (European Data Format)** files and classifies whether the brain activity of a patient is in a normal or abnormal state. The key steps include data pre-processing, feature extraction, model training using XGBoost, and deploying the model via **Streamlit**.
 
 The ultimate goal of this project is to provide a proof-of-concept for real-time neurological diagnostics using machine learning algorithms on EEG data.
 
